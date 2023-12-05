@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "a879bc85f06bd961fe1d27c758ae8a7e7886d51905f2a0a61934e6697c6954f3"
+hash = "eefae45188f1b9a5325f2cd64b1b6e2274df7e6cf74efd03c626b936d485594e"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "5fe24e7230fcf4a40f7cd0b39b6680464eee43262223f37df9a50426581e6c44"
+hash = "86fa1bfa456f08ae408fac23271150098950ae3a2144210424d4d60b8ba06331"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "bceca76fd8b313f8fb1b8dddf2a7df33de58e7773e5677e09d46ab793b59f7c4"
+hash = "76a8815ec76e3d894691f8d2b0216a7c623abd826ddc5475283f60dd56c53085"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9d3255b25a9f08112f6f18061a73c338189e396d3164942922ce25c613974fea"
+hash = "c1ee95653b02f9bb0c875f9904dd9cf08c5c9981d807f8fafb6132267a3b5adc"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "88dd07c94961c665a7df7d663b494b3fbc4f6ee18e16ac61439b063cadb5ae5d"
+hash = "7a0c018d46370b5f1b33840471190d031d7a44c62eee80f903b003283ce7acb3"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "5117466a8047ccafae0fbbdf83f461bf0cec9747610f8327aae183895cdc6d2f"
+hash = "435c9a3f01e5b7669eea3ad8b560922d8525d50ad6b437d8914d8e293a67bf61"
 metafile = true
 
 [[files]]
@@ -712,12 +712,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "81bf666aeff9c554e433972349e15b2e321398d96679b2db93cec4f51ca62076"
+hash = "0ff0a18e98511e82830469ec7b04d996be60fd7cad5ccacff51eb2ebadcac13f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fcc5f35f71e403bdd77a36994553b67147f438ba9a91fc5ce00666daa3f84f0a"
+hash = "2bda4fef88fa663be9981493f0d104afadf2fafae8e0fd09f87f0523a6ba1e78"
 metafile = true
 
 [[files]]
